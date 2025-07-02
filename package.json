@@ -1,0 +1,29 @@
+{
+  "name": "metacall-node-cpp-example",
+  "version": "1.0.0",
+  "description": "An example of using C and C++ libraries from NodeJS by using MetaCall.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metacall/node-cpp-example.git"
+  },
+  "keywords": [
+    "interop",
+    "node",
+    "c",
+    "cpp",
+    "embedding"
+  ],
+  "author": "Vicente Eduardo Ferrer Garcia <vic798@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/metacall/node-cpp-example/issues"
+  },
+  "homepage": "https://github.com/metacall/node-cpp-example#readme",
+  "dependencies": {
+    "metacall": "^0.5.1"
+  }
+}
