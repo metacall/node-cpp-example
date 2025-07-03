@@ -1,4 +1,4 @@
-# MetaCall NodeJS C/C++ Example
+# [MetaCall](https://github.com/metacall/core) NodeJS C/C++ Example
 An example of using C and C++ libraries from NodeJS by using MetaCall.
 
 This example shows few capabilities:
